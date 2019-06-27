@@ -1,3 +1,2 @@
 # CoS-E
-Commonsense Explanations for Commonsense Question Answering
-Coming Soon!
+The Commonsense Explanations dataset is now available here: https://github.com/salesforce/cos-e
